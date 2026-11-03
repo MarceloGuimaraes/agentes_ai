@@ -1,0 +1,10 @@
+[project]
+name = "01-chat-terminal"
+version = "0.1.0"
+description = "Agente de chat no terminal usando a API da OpenAI via HTTP puro (sem SDK, sem tools)"
+readme = "README.md"
+authors = [
+    { name = "Marcelo Guimarães", email = "celoguimaraes@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
